@@ -1,0 +1,13 @@
+{
+  "name": "movie-hunter-data-fetcher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^1.3.2",
+    "cheerio": "^1.0.0-rc.5",
+    "dotenv": "^8.2.0",
+    "nightmare": "^3.0.2",
+    "node-fetch": "^2.6.1"
+  }
+}
